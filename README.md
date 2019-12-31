@@ -1,2 +1,2 @@
 # -Writing-a-MAC-Address-Changer
-Writing a MAC Address Changer with Python on Linux Terminal 
+This is a basic program which you write using Python and then execute on Linux terminal.
